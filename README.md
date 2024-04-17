@@ -1,2 +1,2 @@
 # Segundo-Parcial
-Segundo Parcial
+El código no funciona
